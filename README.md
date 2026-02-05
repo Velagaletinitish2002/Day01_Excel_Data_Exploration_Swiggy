@@ -39,3 +39,6 @@ To explore a Swiggy restaurant dataset using Excel and understand data structure
 
 ## 🚀 Key Takeaway
 Initial data exploration helps improve data accuracy, reduce errors, and build a strong foundation for meaningful analysis.
+
+📌 Note: Dataset is provided as an Excel file and may not be previewable directly on GitHub.
+
